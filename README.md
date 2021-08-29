@@ -4,3 +4,5 @@ The development of an information retrieval for searching a document dataset for
 [Kaggle Home Depot dataset link here](https://www.kaggle.com/c/home-depot-product-search-relevance/data)
 
 Included here is the notebook for the implementation of the preprocessed dataset, as well as a brief of the project. The dataset was preprocessed to remove stopwords.
+
+Acknowledgements to Dr Tuomas Ketola for defining the problem, and for much of the code used in this project.
