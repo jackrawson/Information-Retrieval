@@ -5,5 +5,5 @@ A collaborative project which aimed to develop an information retrieval tool for
 
 Included here is the notebook for the implementation of the preprocessed dataset, as well as a brief of the project. The dataset was preprocessed to remove stopwords.
 
-Acknowledgements to Dr Tuomas Ketola at Queen Mary University of London for defining the problem, and for much of the code used in this project, as well as the other collaborators on the project, Thomas Jake King, Ibrahim Aliu, and Shuaib Ahmed.
+Acknowledgements to Dr Tuomas Ketola at Queen Mary University of London for defining the problem, and for much of the code used in this project, as well as the other collaborators on the project, Thomas Jake King, Mohammed Salim Ibrahim, and Shuaib Ahmed.
 
